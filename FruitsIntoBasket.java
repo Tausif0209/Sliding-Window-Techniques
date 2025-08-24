@@ -1,3 +1,5 @@
+import java.util.HashMap;
+
 public class FruitsIntoBasket {
   public int totalFruit(int[] fruits) {
         if(fruits.length==1) return 1;
